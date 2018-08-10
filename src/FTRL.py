@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+@Author  : Ryan Fan 
+@E-Mail  : ryanfan0528@gmail.com
+@Version : v1.0
+"""
+
 from csv import DictReader
 import csv
 from math import exp, log, sqrt
